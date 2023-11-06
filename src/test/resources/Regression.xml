@@ -15,6 +15,7 @@
             <class name="BaseTest"/>
             <class name="Homework17"/>
             <class name="DataProviderClass"/>
+            <class name="RenamePlaylist"/>
         </classes>
     </test>
 </suite>
